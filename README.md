@@ -1,1 +1,1 @@
-# SeleniumScripts
+# SeleniumScripts for opening browsers
